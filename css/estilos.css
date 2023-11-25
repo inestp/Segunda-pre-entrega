@@ -375,6 +375,11 @@ footer a:hover{
         grid-column: 2/4;
         grid-row: 2/3;
     }
+    .footer{
+        text-align: center; padding: 40px 20px 40px 20px;
+        background-color: rgb(58, 155, 126);  
+
+}
 
 }
 
